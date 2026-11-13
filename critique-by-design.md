@@ -65,6 +65,9 @@ The feedback showed me that readers could spot the highlight and still wonder wh
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
+
+[See on Tableau Public] (https://public.tableau.com/views/AnimlasUnacceptableToEat/BarChartwVariance?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
+
 I built the final version in Tableau with a question as the title and a subtitle that explains what the survey percentages measure. I chose horizontal bars because the animal names fit comfortably and the common percentage scale makes it easier to compare responses. The gender breakdown adds a comparison that was missing from my paper sketch. Readers can now compare the shares of women and men who considered eating each animal morally unacceptable.
 
 The octopus callout connects the redesign to the finding that drew me to the original chart. In the YouGov results, 24% of respondents overall considered eating octopus morally unacceptable, including 26% of women and 22% of men. The overall figure explains the “about one in four” callout, while the breakdown shows a four-percentage-point difference for octopus.
