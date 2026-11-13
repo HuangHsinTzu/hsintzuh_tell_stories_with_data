@@ -1,4 +1,5 @@
-| [home page](https://github.com/HuangHsinTzu/hsintzuh_tell_stories_with_data/blob/main/dataviz-examples.md) | [data viz examples](https://github.com/HuangHsinTzu/hsintzuh_tell_stories_with_data/blob/main/dataviz-examples.md) | [critique by design](https://github.com/HuangHsinTzu/hsintzuh_tell_stories_with_data/blob/main/critique-by-design.md) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://huanghsintzu.github.io/hsintzuh_tell_stories_with_data/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+
 
 # hsintzuh_tell_stories_with_data
 
