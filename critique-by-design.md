@@ -7,6 +7,7 @@ I redesigned a Statista chart about the ethics of eating different animals. I st
 ## Step one: the visualization
 
 I selected Anna Fleck’s Statista chart, “[One in Four Americans Say It’s Wrong To Eat an Octopus](https://www.statista.com/chart/30299/us-survey-on-ethics-of-eating-animals/).” The chart draws on a 2023 YouGov survey that asked U.S. adult citizens whether they thought it was morally acceptable for other people to eat each animal under normal circumstances.
+
 <img width="500" height="500" alt="original_viz" src="https://github.com/user-attachments/assets/9434d481-9a0f-4c8b-ab43-2221d73c7b45" />
 
 
