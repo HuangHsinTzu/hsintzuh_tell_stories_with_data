@@ -68,7 +68,6 @@ The feedback showed me that readers could spot the highlight and still wonder wh
 
 
 
-[See on Tableau Public](https://public.tableau.com/views/AnimlasUnacceptableToEat/BarChartwVariance?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 
 I built the final version in Tableau with a question as the title and a subtitle that explains what the survey percentages measure. I chose horizontal bars because the animal names fit comfortably and the common percentage scale makes it easier to compare responses. The gender breakdown adds a comparison that was missing from my paper sketch. Readers can now compare the shares of women and men who considered eating each animal morally unacceptable.
 
