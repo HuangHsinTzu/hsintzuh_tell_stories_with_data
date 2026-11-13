@@ -26,32 +26,28 @@ I wanted a title that clearly stated what the chart measured and a separate “o
 
 ## Step three: Sketch a solution
 
-I drew a horizontal bar chart with all 16 animals ranked by the overall share who said eating each animal was morally unacceptable. I wrote the percentages at the end of the bars so readers could see exact values without estimating from the axis. I used orange for octopus and repeated that color in a boxed “About 1 in 4” callout above the chart. I also added a subtitle to explain what the percentages represented.
+I drew a horizontal bar chart with all 16 animals ranked by the overall share who said eating each animal was morally unacceptable. I wrote the percentages at the end of the bars so readers could see exact values without estimating from the axis. I used pink for octopus and repeated that color in a boxed “About 1 in 4” callout above the chart. I also added a subtitle to explain what the percentages represented.
 
 The sketch helped me think about how a reader would move from the headline to the ranked bars. It also gave me a way to test whether the callout made sense to someone seeing the chart for the first time.
 
-<!-- Optional: upload your sketch photo next to this Markdown file as octopus-sketch.jpg, then uncomment the image below. -->
-<!-- ![Hand-drawn sketch with 16 ranked horizontal bars and an orange callout for octopus at 24%.](./octopus-sketch.jpg) -->
+
 
 ## Step four: Test the solution
 
-I showed my paper sketch to three graduate student peers. I took notes across the conversations and recorded the feedback collectively.
 
 
 ### Results
 
-I recorded the comments together. The placement of comments under the numbered columns is illustrative because my notes do not identify who gave each response.
-
 | Question | Interviewer 1: female MSPPM-DA student| Interviewer 2: female MISM-BIDA student | Interviewer 3: Make MISM student |
 | --- | --- | --- | --- |
 | What made the chart easy to read? | Descending order made the bars easier to scan. | Percentage labels made exact values easy to find. | The title and subtitle helped explain the chart. |
-| What stood out? | The visual emphasis drew attention. | The bold headline stood out. | — |
-| What was confusing? | The title could be worded more clearly. | The purpose of the callout was unclear. | It was unclear why octopus was singled out. |
+| What is are the things you first notice? | The visual emphasis drew attention. | The bold headline stood out. | — |
+| What question come to your mind after reading the chart? | The title could be worded more clearly. | The purpose of the callout was unclear. | It was unclear why octopus was singled out. |
 | What would you change? | Reword the title. | Explore grouping the animals. | Make the reason for highlighting octopus clearer. |
 
 ### Synthesis
 
-The feedback showed me that readers could spot the highlight and still wonder why it was there. I kept the direct percentage labels and the title-and-subtitle structure from the sketch. For the Tableau version, I rewrote the title as a question and kept the octopus callout focused on a specific finding. Grouping the animals was another idea from the interviews, but I wanted readers to be able to compare responses across animals without first having to interpret a set of animal groups.
+The feedback showed me that readers could spot the highlight of octopus but wondering why it was there. I kept the direct percentage labels and the title-and-subtitle structure from the sketch. For the Tableau version, I rewrote the title as a question and kept the octopus callout focused on a specific finding. Grouping the animals was another idea from the interviews, but I wanted readers to be able to compare responses across animals without first having to interpret a set of animal groups, plus, there is a lot colors in the chart already, adding another grouping might make it too colorful to read
 
 ## Step five: build the solution
 
