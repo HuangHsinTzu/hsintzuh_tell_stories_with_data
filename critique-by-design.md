@@ -7,6 +7,8 @@ I redesigned a Statista chart about the ethics of eating different animals. I st
 ## Step one: the visualization
 
 I selected Anna Fleck’s Statista chart, “[One in Four Americans Say It’s Wrong To Eat an Octopus](https://www.statista.com/chart/30299/us-survey-on-ethics-of-eating-animals/).” The chart draws on a 2023 YouGov survey that asked U.S. adult citizens whether they thought it was morally acceptable for other people to eat each animal under normal circumstances.
+<img width="500" height="500" alt="original_viz" src="https://github.com/user-attachments/assets/9434d481-9a0f-4c8b-ab43-2221d73c7b45" />
+
 
 The headline caught my attention because it made 24% easy to understand. It also made me curious about where octopus fell among the other animals in the survey. I wanted readers to be able to find the main takeaway quickly and then explore how attitudes varied by animal and by gender.
 
@@ -29,6 +31,7 @@ I wanted a title that clearly stated what the chart measured and a separate “o
 I drew a horizontal bar chart with all 16 animals ranked by the overall share who said eating each animal was morally unacceptable. I wrote the percentages at the end of the bars so readers could see exact values without estimating from the axis. I used pink for octopus and repeated that color in a boxed “About 1 in 4” callout above the chart. I also added a subtitle to explain what the percentages represented.
 
 The sketch helped me think about how a reader would move from the headline to the ranked bars. It also gave me a way to test whether the callout made sense to someone seeing the chart for the first time.
+<img width="600" height="433" alt="S__7536658" src="https://github.com/user-attachments/assets/2febb687-ef61-4d82-8bda-6b52b3472d48" />
 
 
 
