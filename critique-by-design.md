@@ -1,6 +1,6 @@
 | [home page](https://huanghsintzu.github.io/hsintzuh_tell_stories_with_data/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Which Animals Do U.S. Adults Consider Unacceptable to Eat?
+# Which Animals Do U.S. Adults Consider Unacceptable to Eat? (Female vs. Male)
 
 I redesigned a Statista chart about the ethics of eating different animals. I started with the original chart’s “one in four” takeaway about octopus, sketched a ranked bar chart, and tested the sketch with three classmates. In Tableau, I added a comparison between women’s and men’s survey responses.
 
