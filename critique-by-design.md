@@ -17,7 +17,7 @@ The headline caught my attention because it made 24% easy to understand. It also
 
 ### What stood out, and what worked well or could be improved?
 
-The headline and the octopus illustration were the first things I noticed in the Makeover Monday chart. I liked how the headline expressed 24% as “one in four,” which made the proportion easy to grasp. I also liked the idea of using a different color to highlight octopus. In practice, the brighter reds drew my eye more than the dark red used for octopus, and the large illustration competed with the data. At first, I thought the chart showed how many people considered eating each animal acceptable. I also read the labels as counts because they lacked percent signs. I had to read the subtitle to understand what the values represented.
+The headline and the octopus illustration were the first things I noticed in the MakeoverMonday chart. I liked how the headline expressed 24% as “one in four,” which made the proportion easy to grasp. I also liked the idea of using a different color to highlight octopus. In practice, the brighter reds drew my eye more than the dark red used for octopus, and the large illustration competed with the data. At first, I thought the chart showed how many people considered eating each animal <u>acceptable</u>. I also read the labels as counts because they lacked percent signs. I had to read the subtitle to understand what the values represented.
 
 ### Who is the primary audience, and is the visualization effective for them?
 
@@ -25,7 +25,7 @@ I think the primary audience is general readers who are curious about Americans�
 
 ### What did I focus on in my redesign?
 
-I wanted a title that clearly stated what the chart measured and a separate “one in four” callout. I planned to add percent signs to the labels, use a bolder color for octopus, and mute the other bars. For the sketch, I also wanted to try replacing the large illustration with four small icons, highlighting one and placing the exact value of 24% beside them.
+I wanted a title that clearly stated what the chart measured and a separate “one in four” callout. I planned to add percent signs to the labels, use a bolder color for octopus, and mute the other bars. For the sketch, I also wanted to try replacing the large illustration with four small human icons, highlighting one to show the "one in four" concept, and placing the exact value of 24% beside them.
 
 ## Step three: Sketch a solution
 
@@ -42,10 +42,10 @@ The sketch helped me think about how a reader would move from the headline to th
 
 ### Results
 
-| Question | Interviewer 1: female MSPPM-DA student| Interviewer 2: female MISM-BIDA student | Interviewer 3: Make MISM student |
+| Question | Interviewer 1: female MSPPM-DA student| Interviewer 2: female MISM-BIDA student | Interviewer 3: male MISM student |
 | --- | --- | --- | --- |
 | What made the chart easy to read? | Descending order made the bars easier to scan. | Percentage labels made exact values easy to find. | The title and subtitle helped explain the chart. |
-| What is are the things you first notice? | The visual emphasis drew attention. | The bold headline stood out. | — |
+| What are the things you first notice? | The visual emphasis drew attention. | The bold headline stood out. | The callout draws my attention |
 | What question come to your mind after reading the chart? | The title could be worded more clearly. | The purpose of the callout was unclear. | It was unclear why octopus was singled out. |
 | What would you change? | Reword the title. | Explore grouping the animals. | Make the reason for highlighting octopus clearer. |
 
@@ -53,7 +53,7 @@ The sketch helped me think about how a reader would move from the headline to th
 
 The feedback showed me that readers could spot the highlight of octopus but wondering why it was there. I kept the direct percentage labels and the title-and-subtitle structure from the sketch. For the Tableau version, I rewrote the title as a question and kept the octopus callout focused on a specific finding. Grouping the animals was another idea from the interviews, but I wanted readers to be able to compare responses across animals without first having to interpret a set of animal groups, plus, there is a lot colors in the chart already, adding another grouping might make it too colorful to read
 
-## Step five: build the solution
+## Step five: build the solution (followed the Andy Kriebel-Watch me Viz tutorial video)
 
 <div class='tableauPlaceholder' id='viz1794544562075' style='position: relative'><noscript><a href='#'><img alt='Which Animals Do US Adults Consider Unacceptable to Eat? (Female vs. Male)Share of US adults who says it&#39;s normally unacceptable to eat these animals under circumstancesAbout 1 in 4 people says it&#39;s not okay to eat octupus! ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;An&#47;AnimlasUnacceptableToEat&#47;BarChartwVariance&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='AnimlasUnacceptableToEat&#47;BarChartwVariance' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;An&#47;AnimlasUnacceptableToEat&#47;BarChartwVariance&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
 <script type='text/javascript'>
