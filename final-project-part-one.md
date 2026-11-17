@@ -46,4 +46,4 @@ I’ll use the study’s publicly available source data to create interactive ch
 - Gauthier, G., Hodler, R., Widmer, P., & Zhuravskaya, E. (2026). The political effects of X’s feed algorithm. *Nature, 652*, 416–423. [Article and figure source data](https://doi.org/10.1038/s41586-026-10098-2)
 
 ## AI acknowledgements
-I came up with a story outline for my project, discussed it with AI, and asked for suggestions on how to improve it.
+I came up with a story outline for my project, discussed it with GhatGPT, and asked for suggestions on how to improve it.
