@@ -3,8 +3,8 @@
 
 # hsintzuh_tell_stories_with_data
 
-- Web page URL: https://huanghsintzu.github.io/hsintzuh_tell_stories_with_data/
-- This repository: https://github.com/HuangHsinTzu/hsintzuh_tell_stories_with_data
+- Web page URL: [https://huanghsintzu.github.io/hsintzuh_tell_stories_with_data/](https://huanghsintzu.github.io/hsintzuh_tell_stories_with_data/)
+- This repository: [https://github.com/HuangHsinTzu/hsintzuh_tell_stories_with_data](https://github.com/HuangHsinTzu/hsintzuh_tell_stories_with_data)
 
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
