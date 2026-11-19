@@ -23,9 +23,7 @@ The part I find most interesting is what happens when people switch back to a ch
 | Resolution | **The accounts you follow can shape tomorrow’s feed** | I’ll return to the opening feeds and highlight a followed account that can still appear in the chronological view. The study suggests this as one explanation for the asymmetry. The final caption will identify the scope of the evidence: active U.S. users of X during a seven-week experiment in 2023. |
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
-
-Text here...
+<img width="1108" height="1478" alt="S__7659526" src="https://github.com/user-attachments/assets/2a72e118-3f36-4667-b892-e5485762fcc3" />
 
 # The data
 I’ll use the public data behind Gauthier et al.’s (2026) Nature study, The Political Effects of X’s Feed Algorithm. The study draws on a seven-week randomized experiment with active U.S. users of X in 2023. I’ll use Figure 3 to compare the share of posts from political activists and news organizations in the algorithmically ranked and reverse-chronological feeds. I’ll use Figures 2 and 4 to show how being assigned to switch feeds affected users’ political attitudes and the types of accounts they followed. Study and source data
