@@ -39,6 +39,19 @@ Introduce the seven-week randomized field experiment conducted in 2023 with 4,96
 ### Call to action
 
 **Review who you follow as well as which feed you use.** Look through the accounts you added through recommendations and decide whose posts you want to keep seeing. Seek out primary news sources you want represented in your feed.
+**Button — Take the Feed Self-Audit Quiz**
+
+A short, three-question quiz helps readers check which feed they use, whether recommendations shaped their recent follows, and whether the news sources they want to see are on their following list. Use the answers to suggest which checklist step to start with.
+
+**Button — Copy the 3-Step Checklist**
+
+Show the checklist directly below the quiz button so readers can use it right away. Place the copy button beside the checklist so they can save it for later.
+
+#### The 3-Step Follow-List Audit
+
+1. **Review recent follows.** Look through accounts you followed after seeing them in **For You**, including partisan activist accounts. Keep the accounts you still want to hear from and unfollow those you no longer want in your feed.
+2. **Add news sources you want to see.** Follow or re-follow the official accounts of news organizations you trust. In the study, posts from traditional news outlets made up **11.3%** of the algorithmic feed and **26.7%** of the chronological feed.
+3. **Use the Following tab.** On X, select **Following** when you want to browse posts from accounts you follow in reverse chronological order. Check which tab is open the next time you return to X.
 
 # User research
 
@@ -83,5 +96,6 @@ These revisions will help readers follow the story from what X’s algorithmic f
 _List any references you used here._
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+- I used NotebookLM to help me better understand the study and create a simplified version of its dataset for building charts in Tableau. 
+- I wrote the story outline in Google Docs and used ChatGPT to format it as a Markdown file for GitHub.
 
