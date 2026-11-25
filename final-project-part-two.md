@@ -20,6 +20,8 @@ If the algorithm changes what people see, what happens when they switch to the c
 ### 3. The experiment on X
 
 Introduce the seven-week randomized field experiment conducted in 2023 with 4,965 active U.S.-based X users. Explain how researchers assigned participants to stay on their existing feed or switch to the other feed.
+<img width="1553" height="716" alt="image" src="https://github.com/user-attachments/assets/887bae10-1f2b-4c8a-9509-2bef912c68b5" />
+
 
 ### 4. How the algorithm changes feed composition
 
