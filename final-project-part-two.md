@@ -40,11 +40,11 @@ Introduce the seven-week randomized field experiment conducted in 2023 with 4,96
 
 **Review who you follow as well as which feed you use.** Look through the accounts you added through recommendations and decide whose posts you want to keep seeing. Seek out primary news sources you want represented in your feed.
 
-**Button — Take the Feed Self-Audit Quiz**
+**Button1 — Take the Feed Self-Audit Quiz**
 
 A short, three-question quiz helps readers check which feed they use, whether recommendations shaped their recent follows, and whether the news sources they want to see are on their following list. Use the answers to suggest which checklist step to start with.
 
-**Button — Copy the 3-Step Checklist**
+**Button2 — Copy the 3-Step Checklist**
 
 Show the checklist directly below the quiz button so readers can use it right away. Place the copy button beside the checklist so they can save it for later.
 
