@@ -8,6 +8,8 @@
 - Open with the choice between X’s algorithmic **For You** feed and chronological **Following** feed. Start with the observation that roughly 76% of users in the study sample were already on the algorithmic feed.
 - **Chart 4 — Political exposure.** Show how exposure to right-wing content changes across feed conditions. It rises from 5.4% to 9.3% for Democrats and from 52.4% to 54.2% for Republicans and Independents.
 
+ 
+ 
  <div class='tableauPlaceholder' id='viz1795578951519' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Co&#47;ConservativeExposurebyUserPoliticalParty&#47;Sheet4&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='ConservativeExposurebyUserPoliticalParty&#47;Sheet4' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Co&#47;ConservativeExposurebyUserPoliticalParty&#47;Sheet4&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                <script type='text/javascript'>
   var divElement = document.getElementById('viz1795578951519');
   var vizElement = divElement.getElementsByTagName('object')[0];
@@ -16,6 +18,8 @@
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
  </script> 
+
+ 
 
 - **Chart 3 — Engagement.** Compare the likes, reposts, and comments on posts shown in each feed. Posts shown in the algorithmic feed had higher engagement across all three measures.
 <div class='tableauPlaceholder' id='viz1795579247722' style='position: relative'><noscript><a href='#'><img alt='Algorithmic Engagement Amplification  ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ch&#47;Chart2_17955762996180&#47;Sheet3&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Chart2_17955762996180&#47;Sheet3' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ch&#47;Chart2_17955762996180&#47;Sheet3&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1795579247722');
