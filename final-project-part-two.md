@@ -1,105 +1,78 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
+## Change the Feed, Change Your Mind?
 
-### Chart 1:
-<div class='tableauPlaceholder' id='viz1795573226069' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Th&#47;TheimpactofAlgorithmonPoliticalTendency&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='TheimpactofAlgorithmonPoliticalTendency&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Th&#47;TheimpactofAlgorithmonPoliticalTendency&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
-<script type='text/javascript'>
-  var divElement = document.getElementById('viz1795573226069');
-  var vizElement = divElement.getElementsByTagName('object')[0];
-  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
-  var scriptElement = document.createElement('script');
-  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
-  vizElement.parentNode.insertBefore(scriptElement, vizElement);
-</script>
+### 1. The hidden hand of the feed
 
-### Chart 2:
-<div class='tableauPlaceholder' id='viz1795570374739' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Th&#47;TheimpactofAlgorithmonPoliticalTendency&#47;Sheet3&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='TheimpactofAlgorithmonPoliticalTendency&#47;Sheet3' /><param name='tabs' value='yes' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Th&#47;TheimpactofAlgorithmonPoliticalTendency&#47;Sheet3&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>
-<script type='text/javascript'>
-  var divElement = document.getElementById('viz1795570374739');
-  var vizElement = divElement.getElementsByTagName('object')[0];
-  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
-  var scriptElement = document.createElement('script');
-  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
-  vizElement.parentNode.insertBefore(scriptElement, vizElement);
-</script>
+- Open with the choice between X’s algorithmic **For You** feed and chronological **Following** feed. Start with the observation that roughly 76% of users in the study sample were already on the algorithmic feed.
+- **Chart 4 — Political exposure.** Show how exposure to right-wing content changes across feed conditions. It rises from 5.4% to 9.3% for Democrats and from 52.4% to 54.2% for Republicans and Independents.
+- <div class='tableauPlaceholder' id='viz1795578951519' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Co&#47;ConservativeExposurebyUserPoliticalParty&#47;Sheet4&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='ConservativeExposurebyUserPoliticalParty&#47;Sheet4' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Co&#47;ConservativeExposurebyUserPoliticalParty&#47;Sheet4&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1795578951519');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script> 
+- **Chart 3 — Engagement.** Compare the likes, reposts, and comments on posts shown in each feed. Posts shown in the algorithmic feed had higher engagement across all three measures.
 
-### Chart 3:
-<div class='tableauPlaceholder' id='viz1795573551035' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Th&#47;TheimpactofAlgorithmonPoliticalTendency&#47;Sheet4&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='TheimpactofAlgorithmonPoliticalTendency&#47;Sheet4' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Th&#47;TheimpactofAlgorithmonPoliticalTendency&#47;Sheet4&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>
-<script type='text/javascript'>
-  var divElement = document.getElementById('viz1795573551035');
-  var vizElement = divElement.getElementsByTagName('object')[0];
-  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
-  var scriptElement = document.createElement('script');
-  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
-  vizElement.parentNode.insertBefore(scriptElement, vizElement);
-</script>
+### 2. Can switching feeds undo the effect?
 
-### Chart 4:
-<div class='tableauPlaceholder' id='viz1795570906130' style='position: relative'><noscript><a href='#'><img alt='Feed Composition Shift ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fe&#47;FeedCompositionShift&#47;Sheet3&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='FeedCompositionShift&#47;Sheet3' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fe&#47;FeedCompositionShift&#47;Sheet3&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>
-<script type='text/javascript'>
-  var divElement = document.getElementById('viz1795570906130');
-  var vizElement = divElement.getElementsByTagName('object')[0];
-  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
-  var scriptElement = document.createElement('script');
-  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
-  vizElement.parentNode.insertBefore(scriptElement, vizElement);
-</script>
+If the algorithm changes what people see, what happens when they switch to the chronological feed? Do their political attitudes shift back?
 
-# User research 
+### 3. The experiment on X
+
+Introduce the seven-week randomized field experiment conducted in 2023 with 4,965 active U.S.-based X users. Explain how researchers assigned participants to stay on their existing feed or switch to the other feed.
+
+### 4. How the algorithm changes feed composition
+
+- **Chart 2 — Account type.** Compare whose posts appeared in each feed. The share from traditional news outlets fell from 26.7% to 11.3% in the algorithmic feed, while the share from political activist accounts rose from 21.5% to 27.3%.
+- **Chart 2 — Content type.** Show what kinds of posts appeared in each feed in a separate view. Entertainment reached 51.6% in the algorithmic feed.
+- <div class='tableauPlaceholder' id='viz1795579039393' style='position: relative'><noscript><a href='#'><img alt='Feed Composition Shift ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fe&#47;FeedCompositionShift&#47;Sheet3&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='FeedCompositionShift&#47;Sheet3' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fe&#47;FeedCompositionShift&#47;Sheet3&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1795579039393');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+
+### 5. What happens when the algorithm is turned on or off?
+
+- **Chart 1 — Turning it on.** Show the statistically significant shifts in selected political attitudes, including views of Zelensky, the Trump investigations, and Republican policy priorities. Also show the increases in platform engagement and in following conservative activist accounts.
+- **Chart 1 — Turning it off.** Explain that the experiment found no statistically significant reversal in political attitudes.
+- **Why the effect might persist.** People can discover and follow new accounts through recommendations. Posts from those accounts can still appear in their chronological feed after they switch.
+- <div class='tableauPlaceholder' id='viz1795579052965' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Th&#47;TheimpactofAlgorithmonPoliticalTendency&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='TheimpactofAlgorithmonPoliticalTendency&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Th&#47;TheimpactofAlgorithmonPoliticalTendency&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1795579052965');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+
+### Call to action
+
+**Review who you follow as well as which feed you use.** Look through the accounts you added through recommendations and decide whose posts you want to keep seeing. Seek out primary news sources you want represented in your feed.
+
+# User research
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
-Text here!
+My Shorthand story, *Change the Feed, Change Your Mind?*, is for people who use or are familiar with social media feeds and want to understand how recommendations shape what they see. I explain the difference between X’s algorithmic **For You** feed and its chronological **Following** feed before asking readers to consider whether switching feeds can undo changes in what they see or whom they follow.
+
+I asked classmates to review the story as readers who were seeing the narrative and charts from outside the project. Their feedback helped me identify where a first-time reader might need clearer wording, chart labels, or study context.
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
 
-Text here!
+I wanted to learn whether readers could identify the study setting, interpret the charts on their own, and follow the story from changes in feed exposure to the effects of switching feeds. The questions below are phrased as a critique guide.
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
-
-
-Text here!
+| Check whether the opening establishes the setting | After reading the opening, which platform do you think the experiment studied? What tells you that? |
+| Test the wording in the political exposure chart | What does “conservative content” mean to you in this chart? What label would make the category clearer? |
+| Test how readers interpret the feed composition chart | What does each percentage represent? Which categories would you expect to add up to 100%? |
+| Check whether the story connects the evidence to the takeaway | What did you take away about turning the algorithm on versus turning it off? Where would you look for the source behind that finding? |
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-Text here!
+I summarized the feedback across the three peer critiques. The notes were recorded as group feedback, so the table leaves individual attribution blank.
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
-|-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
-
+| Questions | Interview 1 (peer reviewer) | Interview 2 (peer reviewer) | Interview 3 (peer reviewer) | Feedback across interviews |
+|-----------|-----------------------------|-----------------------------|-----------------------------|----------------------------|
+| Which platform did the experiment study, and where can readers find the evidence? | — | — | — | Make it clear from the opening that the experiment took place on X. Show the sources more explicitly. |
+| What wording would make the political exposure category clearer? | — | — | — | Change “conservative content” to “right-wing content.” |
+| Which feed composition categories should add up to 100%? | — | — | — | Separate content type from account type. Combining them makes it hard to tell which percentages belong to the same breakdown. |
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
 
-Text here!
+| Research synthesis | Anticipated changes for Part III |
+|--------------------|----------------------------------|
+| “Conservative content” could be clearer in the political exposure chart. | Change the display label to **“Right-wing content”** in Chart 4 and use the same wording in its legend, tooltips, and surrounding text wherever they refer to that content category. |
+| The feed composition chart combines what a post is about with what kind of account posted it. | Rebuild Chart 2 as two views, **Content type** and **Account type**. Compare the algorithmic and chronological feeds in each view and label what the percentages are calculated from. Use a 100% stack where the source categories are mutually exclusive and cover the full breakdown for each feed. |
+| Readers need to recognize X as the study setting and find the evidence behind each chart. | Use an X-related photo as the opening background and name **X** in the opening text. Add a visible source note under each chart and link to the original study in the references. Credit the opening photo. |
 
-| Research synthesis                       | Anticipated changes for Part III                                                |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
-
-> ...include any final thoughts you have here. 
-
-Text here!
-
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
+These revisions will help readers follow the story from what X’s algorithmic feed shows them to what happens when they switch feeds. The closing takeaway will connect that experiment to an action readers can take: review who they follow as well as which feed they use.
 
 ## References
 _List any references you used here._
