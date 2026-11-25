@@ -94,6 +94,9 @@ These revisions will help readers follow the story from what X’s algorithmic f
 # Shorthand Draft
 https://carnegiemellon.shorthandstories.com/change-the-feed-change-your-mind/index.html
 
+
+
+
 ## References
 - Gauthier, G., Hodler, R., Widmer, P., & Zhuravskaya, E. (2026). The political effects of X’s feed algorithm. *Nature, 652*, 416–423. [Article and figure source data](https://doi.org/10.1038/s41586-026-10098-2)
 
