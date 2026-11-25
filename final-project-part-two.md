@@ -70,16 +70,6 @@ My Shorthand story, *Change the Feed, Change Your Mind?*, is for people who use 
 
 I asked classmates to review the story as readers who were seeing the narrative and charts from outside the project. Their feedback helped me identify where a first-time reader might need clearer wording, chart labels, or study context.
 
-## Interview script
-
-I wanted to learn whether readers could identify the study setting, interpret the charts on their own, and follow the story from changes in feed exposure to the effects of switching feeds. The questions below are phrased as a critique guide.
-
-| Goal | Questions to Ask |
-|------|------------------|
-| Check whether the opening establishes the setting | After reading the opening, which platform do you think the experiment studied? What tells you that? |
-| Test the wording in the political exposure chart | What does “conservative content” mean to you in this chart? What label would make the category clearer? |
-| Test how readers interpret the feed composition chart | What does each percentage represent? Which categories would you expect to add up to 100%? |
-| Check whether the story connects the evidence to the takeaway | What did you take away about turning the algorithm on versus turning it off? Where would you look for the source behind that finding? |
 
 ## Interview findings
 
