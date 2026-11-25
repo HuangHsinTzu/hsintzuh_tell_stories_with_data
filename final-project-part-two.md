@@ -85,11 +85,11 @@ I wanted to learn whether readers could identify the study setting, interpret th
 
 I summarized the feedback across the three peer critiques. The notes were recorded as group feedback, so the table leaves individual attribution blank.
 
-| Questions | Interview 1 (peer reviewer) | Interview 2 (peer reviewer) | Interview 3 (peer reviewer) | Feedback across interviews |
-|-----------|-----------------------------|-----------------------------|-----------------------------|----------------------------|
-| Which platform did the experiment study, and where can readers find the evidence? | — | — | — | Make it clear from the opening that the experiment took place on X. Show the sources more explicitly. |
-| What wording would make the political exposure category clearer? | — | — | — | Change “conservative content” to “right-wing content.” |
-| Which feed composition categories should add up to 100%? | — | — | — | Separate content type from account type. Combining them makes it hard to tell which percentages belong to the same breakdown. |
+| Feedback across interviews |
+|----------------------------|
+| Make it clear from the opening that the experiment took place on X. Show the sources more explicitly. |
+| Change “conservative content” to “right-wing content.” |
+| Separate content type from account type. Combining them makes it hard to tell which percentages belong to the same breakdown. |
 
 # Identified changes for Part III
 
