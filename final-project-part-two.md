@@ -44,6 +44,12 @@ Introduce the seven-week randomized field experiment conducted in 2023 with 4,96
 
 A short, three-question quiz helps readers check which feed they use, whether recommendations shaped their recent follows, and whether the news sources they want to see are on their following list. Use the answers to suggest which checklist step to start with.
 
+Quiz prototype:
+1. Do you use the "For You" tab as your main feed?
+2. Have you followed accounts recommended in your timeline?
+3. Do you see more viral clips than traditional news reports?
+Result Output: Computes a dynamic "Algorithmic Exposure Level" score with tailored advice.
+
 **Button2 — Copy the 3-Step Checklist**
 
 Show the checklist directly below the quiz button so readers can use it right away. Place the copy button beside the checklist so they can save it for later.
